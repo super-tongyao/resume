@@ -6,6 +6,8 @@
 
 在线预览：https://super-tongyao.github.io/resume/
 
+国内镜像：https://gitee.com/Super_TongYao/resume
+
 # 界面展示
 ## 电脑端
 ![image](https://user-images.githubusercontent.com/58587822/178109283-32f430fa-2d2b-431a-88cf-ada5e631f149.png)
