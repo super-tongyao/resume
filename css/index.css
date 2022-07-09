@@ -1,0 +1,98 @@
+#preloader {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+    z-index: 10000;
+}
+.spinner { position:relative;
+    width: 150px; height:50px;
+    text-align: center;left: 50%;
+    top: 50%; margin:-25px 0 0 -75px;
+}
+
+.spinner > div {
+    width: 20px;
+    height: 20px;
+    background-color: #e6f5fd;
+
+    border-radius: 100%;
+    display: inline-block;
+    -webkit-animation: bouncedelay 1.4s infinite ease-in-out;
+    animation: bouncedelay 1.4s infinite ease-in-out;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+
+.spinner .bounce1 {
+    -webkit-animation-delay: -0.32s;
+    animation-delay: -0.32s;
+}
+
+.spinner .bounce2 {
+    -webkit-animation-delay: -0.16s;
+    animation-delay: -0.16s;
+}
+
+@-webkit-keyframes bouncedelay {
+    0%, 80%, 100% { -webkit-transform: scale(0.0) }
+    40% { -webkit-transform: scale(1.0) }
+}
+
+@keyframes bouncedelay {
+    0%, 80%, 100% {
+        transform: scale(0.0);
+        -webkit-transform: scale(0.0);
+    } 40% {
+          transform: scale(1.0);
+          -webkit-transform: scale(1.0);
+      }
+}
+
+
+
+.items{
+    margin-bottom: 30px;
+}
+
+.items-title{
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.items-row{
+    margin-bottom: 10px;
+
+}
+
+.img{
+    width:18%;
+    float:left
+}
+.img-body{
+    width: 100%;
+    height: 100%;
+
+    position: relative;
+    top: 0px;
+    left: 0px;
+
+}
+
+.img-body a{
+    display: inline-block;
+    margin-right: 5px;
+
+
+}
+
+.img-body a img{
+    border: 1px #eee solid;
+}
+
+
+.p{
+    line-height: 20px
+}
