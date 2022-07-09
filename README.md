@@ -8,12 +8,12 @@
 
 # 界面展示
 ## 电脑端
-![image](https://user-images.githubusercontent.com/58587822/178109287-7f27f1b0-6eff-4c7c-8e1c-b7e74c02f4bf.png)
 ![image](https://user-images.githubusercontent.com/58587822/178109283-32f430fa-2d2b-431a-88cf-ada5e631f149.png)
+![image](https://user-images.githubusercontent.com/58587822/178109287-7f27f1b0-6eff-4c7c-8e1c-b7e74c02f4bf.png)
 ## 手机端
+![image](https://user-images.githubusercontent.com/58587822/178109298-4b88c4ac-3974-4b22-9d87-06ed7925238b.png)
 ![image](https://user-images.githubusercontent.com/58587822/178109302-f1f90ebe-1879-47a2-bc2d-ea589416bff8.png)
 ![image](https://user-images.githubusercontent.com/58587822/178109305-0dea646a-d2eb-4399-ae3c-5ee34bdc03ec.png)
-![image](https://user-images.githubusercontent.com/58587822/178109298-4b88c4ac-3974-4b22-9d87-06ed7925238b.png)
 ![image](https://user-images.githubusercontent.com/58587822/178109310-de314f77-138e-490a-a160-54bf89326d0e.png)
 ![image](https://user-images.githubusercontent.com/58587822/178109315-b48d175b-5a2e-4860-97f5-e886681dddd4.png)
 ## 相关设置
